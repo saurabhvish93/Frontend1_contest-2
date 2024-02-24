@@ -57,3 +57,10 @@ hr {
     padding-left: 40%;
     
 }
+.galimg {
+    width: 786px;
+    height: 613px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
